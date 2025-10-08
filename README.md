@@ -1,6 +1,7 @@
 # Industrial_training_Report
 This project report presents the design and implementation of a Facial Expression Detection System using Deep Learning. It integrates computer vision and CNN-based models to recognize human emotions from facial images, aiming to enhance human-computer interaction and intelligent recognition systems.
 Facial Expression Detection using Deep Learning
+
 📘 Overview
 
 This project focuses on designing and implementing a Facial Expression Detection System that automatically recognizes human emotions using Deep Learning techniques. By leveraging Convolutional Neural Networks (CNNs) and computer vision, the system can accurately classify facial expressions such as happiness, sadness, anger, fear, disgust, surprise, and neutrality.
